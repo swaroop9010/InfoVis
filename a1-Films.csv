@@ -1,0 +1,14 @@
+Dataset: Films,,,,,,,,,
+Year,Length,Title,Subject,Actor,Actress,Director,Popularity,Awards,*Image
+INT,INT,STRING,STRING,STRING,STRING,STRING,INT,STRING,STRING
+1990,125,Wild at Heart,Drama,"Cage, Nicolas","Dern, Laura","Lynch, David",6,No,NicholasCage.gif
+1961,120,Goodbye Again,Drama,"Perkins, Anthony","Bergman, Ingrid","Litvak, Anatole",6,No,NicholasCage.gif
+1990,135,"Hunt for Red October, The",Drama,"Connery, Sean",,"McTiernan, J.",8,No,NicholasCage.gif
+1984,108,"Terminator, The",Action,"Schwarzenegger, A.","Hamilton, Linda","Cameron, J.",17,No,T2.gif
+1991,136,Terminator 2,Action,"Schwarzenegger, A.","Hamilton, Linda","Cameron, J.",8,No,T2.gif
+1993,65,John Cleese on How to Irritate People,Comedy,"Cleese, John","Booth, Connie",,62,No,NicholasCage.gif
+1987,103,Au Revoir les Enfants,Drama,"Manesse, Gaspard","Racette, Francine","Malle, Louis",35,No,NicholasCage.gif
+1983,128,The Ballad of Narayama,Drama,,Missing,"Imamura, Shohei",15,No,NicholasCage.gif
+1990,138,Cyrano De Bergerac,Drama,"Depardieu, Gerard","Brochet, Anne","Rappeneau, Jean-Paul",86,No,NicholasCage.gif
+1990,107,Green Card,Comedy,"Depardieu, Gerard","MacDowell, Andie","Weir, Peter",25,No,NicholasCage.gif
+1987,118,Hope & Glory,War,"Hayman, David","Miles, Sarah","Boorman, John",3,No,NicholasCage.gif
